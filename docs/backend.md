@@ -29,3 +29,8 @@
 
 3. 해당 결과물을 본인의 github 에 올리기
 4. github에 올린후 dev@nine2021.com 으로 해당 github 주소를 dev@nine2021.com 로 발송
+
+```
+참고 : 질문은 현재 리포지토리  Issues 에  언제든 올려주세요.
+      dev@nine2021.com 으로 주셔도 됩니다.
+```
